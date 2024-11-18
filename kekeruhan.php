@@ -9,8 +9,6 @@
 
     $nilaiKekeruhan = $data['nilai'];
 
-?>
+    echo $nilaiKekeruhan;
 
-<h1>
-    <?php echo $nilaiKekeruhan; ?>
-</h1>
+?>
